@@ -1,6 +1,6 @@
 # Got lost?
 
-Hi 👋! There is nothing here behind this URL. Maybe you were looking for:
+Hi 👋! There is nothing behind this URL. Maybe you were looking for:
 
-- [wiki](https://tuni-itc.github.io/wiki/)
+- [tuni-itc.github.io/**wiki**/](https://tuni-itc.github.io/wiki/)
 
